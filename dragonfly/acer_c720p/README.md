@@ -14,7 +14,7 @@ Does not work:
 
 For the touchpad, install:
 
-   pkg ins xf86-input-elographics
+    pkg ins xf86-input-elographics
 
 More information:
 
