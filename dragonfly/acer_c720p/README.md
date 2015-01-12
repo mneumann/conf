@@ -16,6 +16,10 @@ For the touchpad, install:
 
     pkg ins xf86-input-elographics
 
+Re-mapping the keyboard:
+
+* http://lists.dragonflybsd.org/pipermail/users/2015-January/207343.html
+
 More information:
 
 * http://lists.dragonflybsd.org/pipermail/users/2014-January/090458.html
