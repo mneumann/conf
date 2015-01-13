@@ -19,6 +19,7 @@ For the touchpad, install:
 Re-mapping the keyboard:
 
 * http://lists.dragonflybsd.org/pipermail/users/2015-January/207343.html
+* http://lists.dragonflybsd.org/pipermail/users/2015-January/207350.html
 
 More information:
 
